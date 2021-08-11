@@ -1,8 +1,8 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Joyjoha
+author: Joy
+url: https://www.abhinavsaxena.com/joyjoha # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+ 세상을 바꾸는 개발자를 꿈꾸는 Joy 포트폴리오 사이트
 
 permalink: /:slug.html
 
